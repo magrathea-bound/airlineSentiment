@@ -10,5 +10,5 @@ The results were as stated, initial.  Further tweaking to the neural network wil
 I want to eventually include another neural network that will summarize the negative and positive tweets respectively and summarize the content into a couple of bullet points to give feedback to business leaders and consumer sentiment.  
 
 # Data
-Big thanks to Figure Eight for taking the time to contribute to this data.  
+Big thanks to Figure Eight and the Kaggle Team for taking the time to contribute to this data.  
 https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
